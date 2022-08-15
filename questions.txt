@@ -1,0 +1,468 @@
+Response ID
+Time Started
+Date Submitted
+Status
+Is Python the main language you use for your current projects?
+None:What other language(s) do you use?
+Java:What other language(s) do you use?
+JavaScript:What other language(s) do you use?
+C/C++:What other language(s) do you use?
+PHP:What other language(s) do you use?
+C#:What other language(s) do you use?
+Ruby:What other language(s) do you use?
+Bash / Shell:What other language(s) do you use?
+Objective-C:What other language(s) do you use?
+Go:What other language(s) do you use?
+Visual Basic:What other language(s) do you use?
+Scala:What other language(s) do you use?
+SQL:What other language(s) do you use?
+Kotlin:What other language(s) do you use?
+R:What other language(s) do you use?
+Swift:What other language(s) do you use?
+Clojure:What other language(s) do you use?
+Perl:What other language(s) do you use?
+Rust:What other language(s) do you use?
+Groovy:What other language(s) do you use?
+TypeScript:What other language(s) do you use?
+CoffeeScript:What other language(s) do you use?
+HTML/CSS:What other language(s) do you use?
+Other - Write In::What other language(s) do you use?
+Other - Write In::What other language(s) do you use?.1
+How long have you been programming in Python?
+How many years of professional coding experience do you have?
+For what purposes do you mainly use Python?
+Educational purposes: What do you use Python for?
+Data analysis: What do you use Python for?
+DevOps / System administration / Writing automation scripts: What do you use Python for?
+Software testing / Writing automated tests: What do you use Python for?
+Software prototyping: What do you use Python for?
+Web development: What do you use Python for?
+Machine learning: What do you use Python for?
+Mobile development: What do you use Python for?
+Desktop development: What do you use Python for?
+Computer graphics: What do you use Python for?
+Network programming: What do you use Python for?
+Game development: What do you use Python for?
+Multimedia applications development: What do you use Python for?
+Embedded development: What do you use Python for?
+Programming of web parsers / scrapers / crawlers: What do you use Python for?
+Other - Write In:: What do you use Python for?
+Other - Write In:: What do you use Python for?.1
+Roles count
+What do you use Python for the most?
+Educational purposes:To what extent are you involved in the following activities?
+Data analysis:To what extent are you involved in the following activities?
+DevOps / System administration / Writing automation scripts:To what extent are you involved in the following activities?
+Software testing / Writing automated tests:To what extent are you involved in the following activities?
+Software prototyping:To what extent are you involved in the following activities?
+Web development:To what extent are you involved in the following activities?
+Machine learning:To what extent are you involved in the following activities?
+Mobile development:To what extent are you involved in the following activities?
+Desktop development:To what extent are you involved in the following activities?
+Computer graphics:To what extent are you involved in the following activities?
+Network programming:To what extent are you involved in the following activities?
+Game development:To what extent are you involved in the following activities?
+Multimedia applications development:To what extent are you involved in the following activities?
+Embedded development:To what extent are you involved in the following activities?
+Programming of web parsers / scrapers / crawlers:To what extent are you involved in the following activities?
+Other - Write In::To what extent are you involved in the following activities?
+Do you consider yourself as a Data-Scientist?
+Other – Write In::Do you consider yourself as a Data-Scientist?
+Which version of Python do you use the most?
+Which version of Python 2 do you use the most?
+Which version of Python 3 do you use the most?
+I don’t update:What do you typically use to upgrade your Python version?
+Somebody else manages Python updates for me:What do you typically use to upgrade your Python version?
+Python.org:What do you typically use to upgrade your Python version?
+Build from source:What do you typically use to upgrade your Python version?
+Automatic upgrade via cloud provider:What do you typically use to upgrade your Python version?
+Anaconda:What do you typically use to upgrade your Python version?
+ActivePython:What do you typically use to upgrade your Python version?
+Intel Distribution for Python:What do you typically use to upgrade your Python version?
+OS-provided Python (via apt-get, yum, homebrew, etc.):What do you typically use to upgrade your Python version?
+pyenv:What do you typically use to upgrade your Python version?
+pythonz:What do you typically use to upgrade your Python version?
+I use Docker containers:What do you typically use to upgrade your Python version?
+Other – Write In::What do you typically use to upgrade your Python version?
+Other – Write In::What do you typically use to upgrade your Python version?.1
+None:Do you use any of the following tools to isolate Python environments, if any?
+Virtualenv:Do you use any of the following tools to isolate Python environments, if any?
+Pipenv:Do you use any of the following tools to isolate Python environments, if any?
+Poetry:Do you use any of the following tools to isolate Python environments, if any?
+Conda:Do you use any of the following tools to isolate Python environments, if any?
+Docker:Do you use any of the following tools to isolate Python environments, if any?
+Vagrant  / virtual machines:Do you use any of the following tools to isolate Python environments, if any?
+Other – Write In::Do you use any of the following tools to isolate Python environments, if any?
+Other – Write In::Do you use any of the following tools to isolate Python environments, if any?.1
+None:What web frameworks / libraries do you use in addition to Python?
+Django:What web frameworks / libraries do you use in addition to Python?
+web2py:What web frameworks / libraries do you use in addition to Python?
+Bottle:What web frameworks / libraries do you use in addition to Python?
+CherryPy :What web frameworks / libraries do you use in addition to Python?
+Flask :What web frameworks / libraries do you use in addition to Python?
+Hug:What web frameworks / libraries do you use in addition to Python?
+Pyramid :What web frameworks / libraries do you use in addition to Python?
+Tornado:What web frameworks / libraries do you use in addition to Python?
+Falcon:What web frameworks / libraries do you use in addition to Python?
+FastAPI:What web frameworks / libraries do you use in addition to Python?
+Other – Write In::What web frameworks / libraries do you use in addition to Python?
+Other – Write In::What web frameworks / libraries do you use in addition to Python?.1
+None:What data science framework(s) do you use in addition to Python?
+PyTorch:What data science framework(s) do you use in addition to Python?
+NumPy:What data science framework(s) do you use in addition to Python?
+SciPy:What data science framework(s) do you use in addition to Python?
+Pandas:What data science framework(s) do you use in addition to Python?
+Matplotlib:What data science framework(s) do you use in addition to Python?
+Seaborn:What data science framework(s) do you use in addition to Python?
+SciKit-Learn:What data science framework(s) do you use in addition to Python?
+Keras:What data science framework(s) do you use in addition to Python?
+TensorFlow:What data science framework(s) do you use in addition to Python?
+Theano:What data science framework(s) do you use in addition to Python?
+NLTK:What data science framework(s) do you use in addition to Python?
+MXNet:What data science framework(s) do you use in addition to Python?
+Gensim:What data science framework(s) do you use in addition to Python?
+Other - Write In::What data science framework(s) do you use in addition to Python?
+Other - Write In::What data science framework(s) do you use in addition to Python?.1
+None:Which of the following frameworks / libraries do you use in addition to Python?
+Requests:Which of the following frameworks / libraries do you use in addition to Python?
+aiohttp:Which of the following frameworks / libraries do you use in addition to Python?
+httpx:Which of the following frameworks / libraries do you use in addition to Python?
+PyQT:Which of the following frameworks / libraries do you use in addition to Python?
+PyGTK:Which of the following frameworks / libraries do you use in addition to Python?
+wxPython:Which of the following frameworks / libraries do you use in addition to Python?
+Pillow:Which of the following frameworks / libraries do you use in addition to Python?
+Tkinter:Which of the following frameworks / libraries do you use in addition to Python?
+Pygame:Which of the following frameworks / libraries do you use in addition to Python?
+Twisted:Which of the following frameworks / libraries do you use in addition to Python?
+Asyncio:Which of the following frameworks / libraries do you use in addition to Python?
+Kivy:Which of the following frameworks / libraries do you use in addition to Python?
+Six:Which of the following frameworks / libraries do you use in addition to Python?
+Scrapy:Which of the following frameworks / libraries do you use in addition to Python?
+Other – Write In::Which of the following frameworks / libraries do you use in addition to Python?
+Other – Write In::Which of the following frameworks / libraries do you use in addition to Python?.1
+None:Which of the following cloud platforms do you use?
+Google Cloud Platform:Which of the following cloud platforms do you use?
+AWS:Which of the following cloud platforms do you use?
+Microsoft Azure:Which of the following cloud platforms do you use?
+Rackspace:Which of the following cloud platforms do you use?
+Heroku:Which of the following cloud platforms do you use?
+DigitalOcean:Which of the following cloud platforms do you use?
+Linode:Which of the following cloud platforms do you use?
+PythonAnywhere:Which of the following cloud platforms do you use?
+OpenShift:Which of the following cloud platforms do you use?
+OpenStack:Which of the following cloud platforms do you use?
+Other – Write In::Which of the following cloud platforms do you use?
+Other – Write In::Which of the following cloud platforms do you use?.1
+None of the following:How do you run code in the cloud (in the production environment)?
+In virtual machines:How do you run code in the cloud (in the production environment)?
+Within containers:How do you run code in the cloud (in the production environment)?
+On a Platform-as-a-Service (such as Heroku or Google App Engine):How do you run code in the cloud (in the production environment)?
+Serverless (such as AWS Lambda or Cloud Functions):How do you run code in the cloud (in the production environment)?
+Other – Write In::How do you run code in the cloud (in the production environment)?
+Other – Write In::How do you run code in the cloud (in the production environment)?.1
+None of the following:How do you develop for the cloud?
+With local system interpreter:How do you develop for the cloud?
+Locally with virtualenv (or similar):How do you develop for the cloud?
+In Docker containers:How do you develop for the cloud?
+In virtual machines:How do you develop for the cloud?
+In remote development environments:How do you develop for the cloud?
+Directly in the production environment:How do you develop for the cloud?
+Other – Write In::How do you develop for the cloud?
+Other – Write In::How do you develop for the cloud?.1
+Windows:What operating system(s) are your development environment?
+Linux:What operating system(s) are your development environment?
+macOS:What operating system(s) are your development environment?
+BSD:What operating system(s) are your development environment?
+Other – Write In::What operating system(s) are your development environment?
+Other – Write In::What operating system(s) are your development environment?.1
+None:Which Python unit-testing framework(s) do you use, if any?
+pytest:Which Python unit-testing framework(s) do you use, if any?
+nose:Which Python unit-testing framework(s) do you use, if any?
+unittest:Which Python unit-testing framework(s) do you use, if any?
+doctest:Which Python unit-testing framework(s) do you use, if any?
+tox:Which Python unit-testing framework(s) do you use, if any?
+Hypothesis:Which Python unit-testing framework(s) do you use, if any?
+mock:Which Python unit-testing framework(s) do you use, if any?
+Other – Write In::Which Python unit-testing framework(s) do you use, if any?
+Other – Write In::Which Python unit-testing framework(s) do you use, if any?.1
+No database development:What ORM(s) do you use together with Python, if any?
+Raw SQL:What ORM(s) do you use together with Python, if any?
+Django ORM:What ORM(s) do you use together with Python, if any?
+SQLAlchemy:What ORM(s) do you use together with Python, if any?
+Peewee:What ORM(s) do you use together with Python, if any?
+Dejavu:What ORM(s) do you use together with Python, if any?
+PonyORM:What ORM(s) do you use together with Python, if any?
+SQLObject:What ORM(s) do you use together with Python, if any?
+Tortoise ORM:What ORM(s) do you use together with Python, if any?
+Other – Write In::What ORM(s) do you use together with Python, if any?
+Other – Write In::What ORM(s) do you use together with Python, if any?.1
+None:Which database(s) do you regularly use, if any?
+DB2:Which database(s) do you regularly use, if any?
+MS SQL Server:Which database(s) do you regularly use, if any?
+MySQL:Which database(s) do you regularly use, if any?
+Oracle Database:Which database(s) do you regularly use, if any?
+PostgreSQL:Which database(s) do you regularly use, if any?
+SQLite:Which database(s) do you regularly use, if any?
+Cassandra:Which database(s) do you regularly use, if any?
+Couchbase:Which database(s) do you regularly use, if any?
+HBase:Which database(s) do you regularly use, if any?
+MongoDB:Which database(s) do you regularly use, if any?
+Neo4j:Which database(s) do you regularly use, if any?
+Redis:Which database(s) do you regularly use, if any?
+Amazon Redshift:Which database(s) do you regularly use, if any?
+h2:Which database(s) do you regularly use, if any?
+Other – Write In::Which database(s) do you regularly use, if any?
+Other – Write In::Which database(s) do you regularly use, if any?.1
+None:Which of the following Big Data tool(s) do you use, if any? 
+Apache Beam:Which of the following Big Data tool(s) do you use, if any? 
+Apache Flink:Which of the following Big Data tool(s) do you use, if any? 
+Apache Hadoop/MapReduce:Which of the following Big Data tool(s) do you use, if any? 
+Apache Hive:Which of the following Big Data tool(s) do you use, if any? 
+Apache Samza:Which of the following Big Data tool(s) do you use, if any? 
+Apache Kafka:Which of the following Big Data tool(s) do you use, if any? 
+Apache Spark:Which of the following Big Data tool(s) do you use, if any? 
+Apache Tez:Which of the following Big Data tool(s) do you use, if any? 
+Dask:Which of the following Big Data tool(s) do you use, if any? 
+ClickHouse:Which of the following Big Data tool(s) do you use, if any? 
+Other – Write In::Which of the following Big Data tool(s) do you use, if any? 
+Other – Write In::Which of the following Big Data tool(s) do you use, if any? .1
+None:Which Continuous Integration (CI) system(s) do you regularly use?
+GitHub Actions:Which Continuous Integration (CI) system(s) do you regularly use?
+Gitlab CI:Which Continuous Integration (CI) system(s) do you regularly use?
+Jenkins / Hudson:Which Continuous Integration (CI) system(s) do you regularly use?
+TeamCity:Which Continuous Integration (CI) system(s) do you regularly use?
+Bamboo:Which Continuous Integration (CI) system(s) do you regularly use?
+Travis CI:Which Continuous Integration (CI) system(s) do you regularly use?
+CircleCI:Which Continuous Integration (CI) system(s) do you regularly use?
+CruiseControl:Which Continuous Integration (CI) system(s) do you regularly use?
+Bitbucket Pipelines:Which Continuous Integration (CI) system(s) do you regularly use?
+AppVeyor:Which Continuous Integration (CI) system(s) do you regularly use?
+Other – Write In::Which Continuous Integration (CI) system(s) do you regularly use?
+Other – Write In::Which Continuous Integration (CI) system(s) do you regularly use?.1
+None:Which configuration management tools do you use, if any?
+Salt:Which configuration management tools do you use, if any?
+Puppet:Which configuration management tools do you use, if any?
+Chef:Which configuration management tools do you use, if any?
+Ansible:Which configuration management tools do you use, if any?
+Custom solution:Which configuration management tools do you use, if any?
+Other – Write In::Which configuration management tools do you use, if any?
+Other – Write In::Which configuration management tools do you use, if any?.1
+I don’t use any documentation tools:What documentation tool do you use? 
+Sphinx:What documentation tool do you use? 
+MKDocs:What documentation tool do you use? 
+Doxygen:What documentation tool do you use? 
+Other – Write In::What documentation tool do you use? 
+Other – Write In::What documentation tool do you use? .1
+What is the main editor you use for your current Python development?
+Other – Write In::What is the main editor you use for your current Python development?
+PyCharm Professional Edition:What editors/IDEs do you use for Python development in addition to [question('value'), id='298']?​​​​
+PyCharm Community Edition:What editors/IDEs do you use for Python development in addition to [question('value'), id='298']?​​​​
+Sublime Text:What editors/IDEs do you use for Python development in addition to [question('value'), id='298']?​​​​
+Vim:What editors/IDEs do you use for Python development in addition to [question('value'), id='298']?​​​​
+Atom:What editors/IDEs do you use for Python development in addition to [question('value'), id='298']?​​​​
+VS Code:What editors/IDEs do you use for Python development in addition to [question('value'), id='298']?​​​​
+Eclipse + Pydev:What editors/IDEs do you use for Python development in addition to [question('value'), id='298']?​​​​
+Jupyter Notebook:What editors/IDEs do you use for Python development in addition to [question('value'), id='298']?​​​​
+IntelliJ IDEA:What editors/IDEs do you use for Python development in addition to [question('value'), id='298']?​​​​
+NotePad++:What editors/IDEs do you use for Python development in addition to [question('value'), id='298']?​​​​
+IDLE:What editors/IDEs do you use for Python development in addition to [question('value'), id='298']?​​​​
+Emacs:What editors/IDEs do you use for Python development in addition to [question('value'), id='298']?​​​​
+Python Tools for Visual Studio (PTVS):What editors/IDEs do you use for Python development in addition to [question('value'), id='298']?​​​​
+Spyder:What editors/IDEs do you use for Python development in addition to [question('value'), id='298']?​​​​
+JupyterLab:What editors/IDEs do you use for Python development in addition to [question('value'), id='298']?​​​​
+None:What editors/IDEs do you use for Python development in addition to [question('value'), id='298']?​​​​
+Other – Write In::What editors/IDEs do you use for Python development in addition to [question('value'), id='298']?​​​​
+Other – Write In::What editors/IDEs do you use for Python development in addition to [question('value'), id='298']?​​​​.1
+Do you regularly work on multiple projects at the same time?
+use autocompletion  in your editor:When developing in Python, how often do you …? (Optional)
+use a debugger:When developing in Python, how often do you …? (Optional)
+refactor your code:When developing in Python, how often do you …? (Optional)
+use Version Control Systems:When developing in Python, how often do you …? (Optional)
+use code linting (programs that analyze code for potential errors):When developing in Python, how often do you …? (Optional)
+use Python virtual environments for your projects:When developing in Python, how often do you …? (Optional)
+use SQL databases :When developing in Python, how often do you …? (Optional)
+use NoSQL databases:When developing in Python, how often do you …? (Optional)
+run / debug or edit code on remote machines (remote hosts, VMs, etc.):When developing in Python, how often do you …? (Optional)
+use a Python profiler:When developing in Python, how often do you …? (Optional)
+write tests for your code:When developing in Python, how often do you …? (Optional)
+use code coverage:When developing in Python, how often do you …? (Optional)
+use optional type hinting:When developing in Python, how often do you …? (Optional)
+use Continuous Integration tools:When developing in Python, how often do you …? (Optional)
+use Issue Trackers:When developing in Python, how often do you …? (Optional)
+How did you first learn about [question('value'), id='298']?
+Other – Write In::How did you first learn about [question('value'), id='298']?
+How often do you use [question('value'), id='298']?
+Are you missing any features in [question('value'), id='298']?
+Yes – Please list::Are you missing any features in [question('value'), id='298']?
+How likely is it that you would recommend [question('value'), id='298'] to a friend or colleague?
+If you have any additional comments about [question('value'), id='298'], please share it here:
+Which standard library modules do you have the most trouble with, if any?
+What problems do you have with the libraries listed above?
+Yes, I’ve submitted a pull request on GitHub:Have you tried reporting your issues?
+Yes, I’ve reported an issue on bugs.python.org:Have you tried reporting your issues?
+Yes, I’ve asked on mailing lists:Have you tried reporting your issues?
+Yes, I’ve asked on Discourse:Have you tried reporting your issues?
+Yes, I’ve asked elsewhere:Have you tried reporting your issues?
+No:Have you tried reporting your issues?
+Was your issue solved?
+Other – Write In::Was your issue solved?
+Mailing lists:Which channels do you prefer for communicating with the core developers? 
+Discourse:Which channels do you prefer for communicating with the core developers? 
+GitHub:Which channels do you prefer for communicating with the core developers? 
+Twitter:Which channels do you prefer for communicating with the core developers? 
+IRC:Which channels do you prefer for communicating with the core developers? 
+bugs.python.org:Which channels do you prefer for communicating with the core developers? 
+I’ve never contacted  the core developers:Which channels do you prefer for communicating with the core developers? 
+What do you think about the new Developer-in-Residence role? 
+If you have feedback about the Developer-in-Residence role, please provide it below.
+virtualenv:Which of the following tools do you use to isolate Python environments between projects?
+venv:Which of the following tools do you use to isolate Python environments between projects?
+virtualenvwrapper:Which of the following tools do you use to isolate Python environments between projects?
+hatch:Which of the following tools do you use to isolate Python environments between projects?
+Poetry:Which of the following tools do you use to isolate Python environments between projects?
+pipenv:Which of the following tools do you use to isolate Python environments between projects?
+Conda:Which of the following tools do you use to isolate Python environments between projects?
+I do not use any tools to isolate Python environments:Which of the following tools do you use to isolate Python environments between projects?
+Other - Write In:Which of the following tools do you use to isolate Python environments between projects?
+Other, please specify::Which of the following tools do you use to isolate Python environments between projects?
+Other - Write In:Which of the following tools do you use to isolate Python environments between projects?.1
+Do you use a virtual environment (e.g. virtualenv) in containers (e.g. Docker)? 
+I use venv directly:Do you use the standard library (Python 3.3+) module venv?
+I use it via Poetry:Do you use the standard library (Python 3.3+) module venv?
+I use it via Pipenv:Do you use the standard library (Python 3.3+) module venv?
+I use it via virtualenv:Do you use the standard library (Python 3.3+) module venv?
+I use it via tox:Do you use the standard library (Python 3.3+) module venv?
+I don’t know:Do you use the standard library (Python 3.3+) module venv?
+No, I do not use venv:Do you use the standard library (Python 3.3+) module venv?
+Other – Write In::Do you use the standard library (Python 3.3+) module venv?
+Other – Write In::Do you use the standard library (Python 3.3+) module venv?.1
+None / I'm not sure:Which tools related to Python packaging do you use directly? 
+pip:Which tools related to Python packaging do you use directly? 
+Conda:Which tools related to Python packaging do you use directly? 
+pipenv:Which tools related to Python packaging do you use directly? 
+Poetry:Which tools related to Python packaging do you use directly? 
+venv (standard library):Which tools related to Python packaging do you use directly? 
+virtualenv:Which tools related to Python packaging do you use directly? 
+flit:Which tools related to Python packaging do you use directly? 
+tox:Which tools related to Python packaging do you use directly? 
+PDM:Which tools related to Python packaging do you use directly? 
+twine:Which tools related to Python packaging do you use directly? 
+Containers (eg: via Docker):Which tools related to Python packaging do you use directly? 
+Virtual machines:Which tools related to Python packaging do you use directly? 
+Workplace specific proprietary solution:Which tools related to Python packaging do you use directly? 
+Other – Write In::Which tools related to Python packaging do you use directly? 
+Other – Write In::Which tools related to Python packaging do you use directly? .1
+Do you use any tools for managing precise/exact versions (version pinning) of application dependencies?
+None:What format(s) is your application dependency information stored in?
+requirements.txt:What format(s) is your application dependency information stored in?
+pyproject.toml:What format(s) is your application dependency information stored in?
+pipfile.lock:What format(s) is your application dependency information stored in?
+poetry.lock:What format(s) is your application dependency information stored in?
+Conda environment.yml:What format(s) is your application dependency information stored in?
+pip constraints.txt:What format(s) is your application dependency information stored in?
+Other – Write In::What format(s) is your application dependency information stored in?
+Other – Write In::What format(s) is your application dependency information stored in?.1
+None:Which of the following tools do you use for application dependency management?
+pipenv:Which of the following tools do you use for application dependency management?
+poetry:Which of the following tools do you use for application dependency management?
+pip-tools:Which of the following tools do you use for application dependency management?
+Other – Write In::Which of the following tools do you use for application dependency management?
+Other – Write In::Which of the following tools do you use for application dependency management?.1
+None:Do you use any of the following automated services to update the versions of application dependencies?
+Dependabot:Do you use any of the following automated services to update the versions of application dependencies?
+PyUp:Do you use any of the following automated services to update the versions of application dependencies?
+Custom tools, e.g. a cron job or scheduled CI task:Do you use any of the following automated services to update the versions of application dependencies?
+No, my application dependencies are updated manually:Do you use any of the following automated services to update the versions of application dependencies?
+Other – Write In::Do you use any of the following automated services to update the versions of application dependencies?
+Other – Write In::Do you use any of the following automated services to update the versions of application dependencies?.1
+None:Which of the following tools do you use for installing packages?
+pip:Which of the following tools do you use for installing packages?
+easy_install:Which of the following tools do you use for installing packages?
+Conda:Which of the following tools do you use for installing packages?
+Poetry:Which of the following tools do you use for installing packages?
+pip-sync:Which of the following tools do you use for installing packages?
+pipx:Which of the following tools do you use for installing packages?
+Other – Write In::Which of the following tools do you use for installing packages?
+Other – Write In::Which of the following tools do you use for installing packages?.1
+I’m not sure:Where do you install packages from? 
+PyPI:Where do you install packages from? 
+Local source:Where do you install packages from? 
+Internal mirror of PyPI:Where do you install packages from? 
+Private Python Package Index:Where do you install packages from? 
+Anaconda:Where do you install packages from? 
+Default Conda channel:Where do you install packages from? 
+conda-forge Conda channel:Where do you install packages from? 
+Other Conda channel:Where do you install packages from? 
+GitHub:Where do you install packages from? 
+Artifactory:Where do you install packages from? 
+GitLab:Where do you install packages from? 
+From Linux distribution:Where do you install packages from? 
+Other – Write In::Where do you install packages from? 
+Other – Write In::Where do you install packages from? .1
+Do you develop applications?
+None / I'm not sure:Which tool(s) do you use to develop Python applications?
+Setuptools:Which tool(s) do you use to develop Python applications?
+build:Which tool(s) do you use to develop Python applications?
+Wheel:Which tool(s) do you use to develop Python applications?
+Enscons:Which tool(s) do you use to develop Python applications?
+pex:Which tool(s) do you use to develop Python applications?
+Flit:Which tool(s) do you use to develop Python applications?
+Poetry:Which tool(s) do you use to develop Python applications?
+conda-build:Which tool(s) do you use to develop Python applications?
+maturin:Which tool(s) do you use to develop Python applications?
+PDM-PEP517:Which tool(s) do you use to develop Python applications?
+Other – Write In::Which tool(s) do you use to develop Python applications?
+Other – Write In::Which tool(s) do you use to develop Python applications?.1
+Have you packaged and published a Python application that you developed to a package repository?
+PyPI:Where did you publish your Python application packages?
+Private Python Package Index:Where did you publish your Python application packages?
+Internal mirror of PyPI:Where did you publish your Python application packages?
+conda-forge:Where did you publish your Python application packages?
+Other – Write In::Where did you publish your Python application packages?
+Other – Write In::Where did you publish your Python application packages?.1
+Do you develop and package Python libraries?
+Setuptools:Which tools do you use to create packages of your Python libraries? 
+build:Which tools do you use to create packages of your Python libraries? 
+Wheel:Which tools do you use to create packages of your Python libraries? 
+Enscons:Which tools do you use to create packages of your Python libraries? 
+pex:Which tools do you use to create packages of your Python libraries? 
+Flit:Which tools do you use to create packages of your Python libraries? 
+Poetry:Which tools do you use to create packages of your Python libraries? 
+conda-build:Which tools do you use to create packages of your Python libraries? 
+maturin:Which tools do you use to create packages of your Python libraries? 
+PDM-PEP517:Which tools do you use to create packages of your Python libraries? 
+Other – Write In::Which tools do you use to create packages of your Python libraries? 
+Other – Write In::Which tools do you use to create packages of your Python libraries? .1
+Have you packaged and published a Python library to a package repository? 
+PyPI:Where have you published your packaged Python libraries?
+Private Python Package Index:Where have you published your packaged Python libraries?
+Internal mirror of PyPI:Where have you published your packaged Python libraries?
+conda-forge:Where have you published your packaged Python libraries?
+Other – Write In::Where have you published your packaged Python libraries?
+Other – Write In::Where have you published your packaged Python libraries?.1
+Most of the time, do you ...? 
+How many people are in your project team?
+What is your employment status?
+Other – Write In::What is your employment status?
+How many people work for your company / organization?
+Choose one from the list::Which of the following industries best describes your company's business?
+Other - Write In::Which of the following industries best describes your company's business?
+Choose one from the list::Which of the following industries do you develop for?
+Other - Write In::Which of the following industries do you develop for?
+DBA:Which of the following best describes your job role(s)?
+Architect:Which of the following best describes your job role(s)?
+QA engineer:Which of the following best describes your job role(s)?
+Developer / Programmer:Which of the following best describes your job role(s)?
+Technical writer:Which of the following best describes your job role(s)?
+Technical support:Which of the following best describes your job role(s)?
+Data analyst:Which of the following best describes your job role(s)?
+Business analyst:Which of the following best describes your job role(s)?
+Team lead:Which of the following best describes your job role(s)?
+Product manager:Which of the following best describes your job role(s)?
+CIO / CEO / CTO:Which of the following best describes your job role(s)?
+Systems analyst:Which of the following best describes your job role(s)?
+Other – Write In::Which of the following best describes your job role(s)?
+Other – Write In::Which of the following best describes your job role(s)?.1
+Could you tell us your age range?
+What country or region do you live in?    
+What did you think about this survey? We would be happy to hear your feedback:
